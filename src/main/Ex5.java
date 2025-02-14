@@ -1,5 +1,6 @@
 package main;
 
+// 비교 연산자
 public class Ex5 {
 
 	public static void main(String[] args) {
